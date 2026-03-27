@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "download_url": "",
-  "changelog": "Phiên bản đầu tiên"
+  "changelog": "v1.0.2 - GPU & UX Update\n• Fix GPU NVENC detection → ghép video nhanh hơn 3-5x\n• Progress bar + ETA khi ghép video\n• Fix logo kích thước sai khi export\n• Nút ◀ ▶ cho tất cả sliders\n• Keyboard shortcuts: Space, I/O, mũi tên\n• Auto-detect codec/resolution mismatch khi ghép\n• Hiển thị thông tin file (codec, resolution, duration)\n• Tối ưu startup splash screen\n• Cache NVENC detection"
 }
