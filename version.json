@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
-  "download_url": "https://github.com/VTTStudio-neo/VTTMedia-releases/releases/download/v1.0.2/VTTMedia_Setup_v1.0.2.exe",
-  "changelog": "v1.0.2 - GPU & UX Update\n• Fix GPU NVENC → ghép video nhanh hơn 3-5x\n• Progress bar + ETA khi ghép video\n• Fix logo kích thước sai khi export\n• Nút ◀ ▶ cho sliders\n• Keyboard shortcuts: Space, I/O, mũi tên\n• Auto-detect codec mismatch khi ghép\n• Tối ưu startup"
+  "version": "1.0.3",
+  "download_url": "https://github.com/VTTStudio-neo/VTTMedia-releases/releases/download/v1.0.3/VTTMedia_Setup_v1.0.3.exe",
+  "changelog": "v1.0.3 - Fix dịch thuật\n• Fix retry logic khi dịch mini-batch với Gemini"
 }
