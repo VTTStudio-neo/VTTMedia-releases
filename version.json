@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
-  "download_url": "https://github.com/VTTStudio-neo/VTTMedia-releases/releases/download/v1.0.3/VTTMedia_Setup_v1.0.3.exe",
-  "changelog": "v1.0.3 - Fix dịch thuật\n• Fix retry logic khi dịch mini-batch với Gemini"
+  "version": "1.0.4",
+  "download_url": "https://github.com/VTTStudio-neo/VTTMedia-releases/releases/download/v1.0.4/VTTMedia_Setup_v1.0.4.exe",
+  "changelog": "v1.0.4 - Toi uu toc do dich Gemini\n- Chuyen tu Selenium sang Playwright\n- Thu hoach hang loat (batch harvest)\n- One-shot DOM harvest (30s -> 2s/tab)"
 }
