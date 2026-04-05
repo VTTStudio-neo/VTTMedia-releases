@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
-  "download_url": "https://github.com/VTTStudio-neo/VTTMedia-releases/releases/download/v1.0.5/VTTMedia_Setup_v1.0.5.exe",
-  "changelog": "v1.0.5 - Fix Error 13 & Zombie Tab\n• Fix Error 13: Tu xoa cookie + cache Gemini\n• Fix Zombie Tab: Tab chet that su bi loai\n• Tu mo tab moi thay the\n• Don dep cache Chrome 3 lan\n• Blue Violet Theme"
+  "version": "1.0.6",
+  "download_url": "https://github.com/VTTStudio-neo/VTTMedia-releases/releases/download/v1.0.6/VTTMedia_Setup_v1.0.6.exe",
+  "changelog": "v1.0.6 - AI Image Upscale\n• Thêm tab Upscale ảnh siêu nét bằng AI (Real-ESRGAN)\n• Hỗ trợ 3 model: Ảnh thật, Anime, Anime Video\n• Batch upscale, preview so sánh Trước/Sau\n• Fix dialog cập nhật, BBDown encoding, Bilibili URL\n• Fix status ghép video kẹt"
 }
